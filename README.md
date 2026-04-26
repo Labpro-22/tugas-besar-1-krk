@@ -126,5 +126,4 @@ Papan permainan dibangun dari file konfigurasi. File config core saat ini:
 
 ## Catatan
 
-- Disarankan menjalankan proyek ini dari Linux atau WSL agar sesuai dengan ketentuan tugas.
 - Folder `save/` ikut dilacak di repository, tetapi file save di dalamnya diabaikan oleh git.
